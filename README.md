@@ -1,5 +1,5 @@
 ### Hola este es mi repositorio de gitHub 👋
-
+### holass
 <!--
 **brunozz16/brunozz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[https://img.shields.io/endpoint?url=<URL>&style<STYLE>](https://img.shields.io/badge/<C++>-<C#>-<green>)
+
