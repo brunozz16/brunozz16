@@ -6,6 +6,10 @@ from PyQt5.QtWidgets import QMainWindow, QApplication, QTableView, QMessageBox, 
 from PyQt5.QtCore import Qt
 from PyQt5 import uic
 nltk.download('punkt')
+import sumy
+from sumy.parsers.plaintext import PlaintextParser
+from sumy.nlp.tokenizers import Tokenizer
+from sumy.summarizers.lex_rank import LexRankSummarizer
 import google.generativeai as genai
 from PyQt5.QtGui import QCursor
 
@@ -75,6 +79,10 @@ class VentanaResumen(QDialog):
         wrapped_content2 = '\n'.join([respuesta_vigencia[i:i+75] for i in range(0, len(respuesta_vigencia), 75)])
         self.labelVigencia.setText(wrapped_content2)
         
+    def realizarResumenSumy(self, texto):
+        wrapped_content = '\n'.join([texto[i:i+75] for i in range(0, len(texto), 75)])
+        self.labelResumen.setText(wrapped_content)
+        
     def generarResumenIA(self,texto):
         response = self.model.generate_content("Necesito un mini resumen de no más de 60 palabras del siguiente convenio resaltando las partes más importantes: " + texto)
         respuesta_resumen = response.text
@@ -88,6 +96,16 @@ class VentanaResumen(QDialog):
     def generar_resumen_cargado(self,texto):
         wrapped_content = '\n'.join([texto[i:i+75] for i in range(0, len(texto), 75)])
         self.labelResumen.setText(wrapped_content)
+        
+# Aquí deberías instanciar y mostrar la ventana  
+def generar_resumen(texto, oraciones=3):
+    parser = PlaintextParser.from_string(texto, Tokenizer("spanish"))
+    # Using LexRank
+    summarizer = LexRankSummarizer()
+    # Summarize the document with 2 sentences
+    summary = summarizer(parser.document, oraciones)
+    # Retornar el resumen como una cadena de texto
+    return " ".join([str(sentence) for sentence in summary])
 
 def leer_pdf(linkurl):
     try:

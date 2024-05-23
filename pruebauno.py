@@ -1,6 +1,5 @@
 import resumen
 import webbrowser
-from PyPDF2 import PdfFileReader
 import sys
 from PyQt5 import uic
 from PyQt5.QtWidgets import QStyledItemDelegate,QMainWindow, QApplication, QTableView,QHeaderView, QMessageBox, QDialog, QVBoxLayout, QWidget, QPushButton,QProgressDialog
@@ -13,8 +12,6 @@ from PyQt5.QtCore import Qt
 from datetime import datetime
 import datetime
 from PyQt5.QtGui import QCursor
-from untitled import *
-
 
 class VentanaHistorico(QDialog):
     def __init__(self):
