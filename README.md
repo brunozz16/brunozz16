@@ -1,8 +1,10 @@
 <h1>Hi there, I'm Bruno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
-I’m a Software Engineering Undergraduate who is interested in front-end development. Currently, I am working mainly on MERN stack projects. Also, I am working as a freelance graphic designer.
+👋 Hi there! I'm a Computer Engineering student passionate about software development and solving technological challenges. Currently, I'm working on my thesis to earn my Systems Analyst degree while developing a Vue.js project that combines intuitive design and robust functionality.
 
-Want to know more about me? 
+💻 My interests span frontend and backend development, as well as integrating modern technologies to build efficient solutions. Here, you'll find projects that reflect my curiosity and dedication to continuous learning.
+
+📚 Always eager to learn and open to collaborating on exciting projects. Let's connect! 😊
 
   <p>
     <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
@@ -28,6 +30,7 @@ Want to know more about me?
 </br>
 
 # GitHub Stats 📈
+
 <a href="https://github.com/brunozz16/brunozz16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunozz16&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -44,10 +47,5 @@ Want to know more about me?
 
 <a href="https://github.com/brunozz16/brunozz16">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunozz16&theme=dark" alt="Bruno GitHub Streak Stats"/>
-</a>
-<br><br>
-
-<a href="https://github.com/brunozz16/brunozz16">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=brunozz16&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Bruno GitHub Contributions Graph"/>
 </a>
 <br><br>
