@@ -12,20 +12,42 @@ Want to know more about me?
     <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
   </p>
 
-### Tecnologias
+# Technologies 🔧
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C-Sharp-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-</br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLSERVER](https://img.shields.io/badge/SQLServer-1D39E5?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
 [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-E7958A?style=for-the-badge&logo=plsql&logoColor=white&labelColor=101010)]()
 </br>
 
+# GitHub Stats 📈
+<a href="https://github.com/brunozz16/brunozz16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunozz16&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<a href="https://github.com/brunozz16/brunozz16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunozz16&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Bruno%20Github%20Stats" alt="Bruno GitHub Stats" />
+</a>
+<br><br>
+
+<a href="https://github.com/brunozz16/brunozz16">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunozz16&theme=radical&hide_border=true)](https://github.com/brunozz16" alt="Bruno GitHub Stats Graph"/>
+</a>
+<br><br>
+
+<a href="https://github.com/brunozz16/brunozz16">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunozz16&theme=dark" alt="Bruno GitHub Streak Stats"/>
+</a>
+<br><br>
+
+<a href="https://github.com/brunozz16/brunozz16">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=brunozz16&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Bruno GitHub Contributions Graph"/>
+</a>
+<br><br>
