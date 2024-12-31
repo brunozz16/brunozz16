@@ -1,5 +1,17 @@
-### Hola este es mi repositorio de gitHub 👋
-Estudiante de ingeniería informática
+<h1>Hi there, I'm Bruno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
+
+I’m a Software Engineering Undergraduate who is interested in front-end development. Currently, I am working mainly on MERN stack projects. Also, I am working as a freelance graphic designer.
+
+Want to know more about me? 
+
+  <p>
+    <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
+  <a href="https://www.hackerrank.com/h_g_d_sandakalum" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
+    <a href="https://www.instagram.com/_.sanda._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
+    <a href="https://www.facebook.com/h.g.d.sandakalum" target="_blank"><img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/h.g.d.sandakalum)](https://www.facebook.com/h.g.d.sandakalum"></a>
+    <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
+  </p>
+
 ### Tecnologias
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
